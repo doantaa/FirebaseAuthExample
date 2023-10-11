@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "710924165056",
+    "project_id": "fir-authexample-doanta",
+    "storage_bucket": "fir-authexample-doanta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710924165056:android:628af836ed223a04ec3225",
+        "android_client_info": {
+          "package_name": "com.catnip.firebaseauthexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHgNfTqcGi93YB56vJs17uobcACMtYcg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
